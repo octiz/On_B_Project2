@@ -1,0 +1,20 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	color: #383838;
+	background-color: #D3D3D3;
+	padding: 10px;
+}
+img {
+  display: inline-table;
+  margin-left: 7.5px;
+  margin-right: auto;
+}
+
+.hidden { display: none }
+
+h2 { text-transform: uppercase; font-weight: normal; color: black; background-color: #D3D3D3; font-family: 'Anton', sans-serif; }
+main > h2 { margin: 10px 0 10px 0; font-size: 1.5em; }
+
+p { margin-bottom: 2em; line-height: 1.5; text-indent: 25px; }
+p::first-letter { font-style: normal; }
